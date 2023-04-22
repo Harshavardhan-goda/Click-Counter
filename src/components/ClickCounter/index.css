@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  text-align: center;
+  padding: 120px;
+  height: 100vh;
+}
+.heading {
+  color: #2d3a35;
+}
+.paragraph {
+  color: #2d3a35;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-style: none;
+  padding: 15px;
+  border-radius: 5px;
+}
